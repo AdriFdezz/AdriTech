@@ -15,4 +15,4 @@ Valve tiene unas condiciones para Steam, su tienda digital, que favorecen a los 
 
 **Carpeta de spam.** El desarrollador que lleva siete aos recibiendo correos de Valve afirma que ha pedido a Steam que dejen de enviarle emails y que se quede el dinero o lo done a organizaciones benéficas, pero su petición fue rechazada. Un pequeño peaje a pagar por la tremenda exposición que genera la tienda de Valve... aunque el beneficio no llegue a los cien euros.
 
-[**VOLVER A LA PAGINA PRINCIPAL**](FrontPage.md)
+[**VOLVER A LA PAGINA PRINCIPAL**](README.md)
