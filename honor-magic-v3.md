@@ -31,4 +31,4 @@ Por su parte, la pantalla exterior cuenta con **tecnología de atenuación PWM a
 
 Para mejorar aún más la comodidad del usuario y reducir la fatiga ocular, el panel cuenta con atenuación dinámica que replica el ritmo natural de la luz. Equipado con una **pantalla nocturna circadiana**, el HONOR Magic V3 aprovecha la tecnología de inteligencia artificial para ajustar la temperatura de color del display.
 
-[**VOLVER A LA PAGINA PRINCIPAL**](FrontPage.md)
+[**VOLVER A LA PAGINA PRINCIPAL**](README.md)
