@@ -10,7 +10,7 @@ En esta página web exploraremos cómo la tecnología se integra en nuestra vida
 ![Steam](assets/steam.jpeg)
 
 **Categoria: Videojuegos**
-- Un videojuego independiente tiene un precio a pagar para el desarrollador. Cien euros de fianza en el caso de Steam. [**LEER MAS**]((steam-desarrolladores.md)
+- Un videojuego independiente tiene un precio a pagar para el desarrollador. Cien euros de fianza en el caso de Steam. [**LEER MAS**](steam-desarrolladores.md)
 
 ### [**Cuando lo tengas en la mano no daras credito: El nuevo HONOR**](honor-magic-v3.md)
 
